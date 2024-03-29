@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirtilakkadwala
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in Java Full Stack  Development
 - 🌱 I’m currently learning Spring Boot . I have proficiency in Core Java,Advance Java, Web-Technologies and ReactJs.
 - 💞️ In love with Logics
 - 📫 How to reach me : mail me at kirtilakkadwala@gmail.com
